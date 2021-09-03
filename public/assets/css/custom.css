@@ -1,0 +1,10 @@
+.card-body.tab {
+    background: linear-gradient(90deg, #0d6efd 2%, rgba(80,206,232,1));
+}
+h2.card-title.center {
+    font-size: 2.4rem;
+    text-align: center;
+}
+h1.card-title.mb-2 {
+    font-size: 1.7rem;
+}
